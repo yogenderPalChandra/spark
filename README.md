@@ -28,3 +28,10 @@
   * conda install -c anaconda beautifulsoup4
 
 
+Which files to work with?
+
+1. All the html files
+2. file.py is executable python file
+3. DefForAllCode.ipynb is jupyter notebook with all th comments
+
+
