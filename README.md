@@ -5,6 +5,10 @@
 #### 2. Location value of class="location-text ng-binding"
 #### 3. All parameters labels and values in class="params1" and class="params2"
 
+*Medium Arcticle for this work is available here:* 
+
+https://yogender027mae.medium.com/pyspark-udfs-spark-nlp-and-scrapping-html-files-on-spark-clusters-a-complete-etl-process-for-16be64331cf8
+
 *Prepare environment (one can use conda environment):*
   * conda create -n pyspark_env
   * conda activate pyspark_env
