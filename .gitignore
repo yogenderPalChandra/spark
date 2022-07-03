@@ -5,5 +5,7 @@
 !.gitignore
 !file.py
 !DefForAllCode.ipynb
+!*.html
+!regex_rules.txt
 
 # etc...
