@@ -20,11 +20,11 @@
 *Install spark-nlp #https://nlp.johnsnowlabs.com/docs/en/install*
   * conda install -c johnsnowlabs spark-nlp
 
-*Export python path for both driver and worker nodes (python version shuld be same for both)*
-  * export PYSPARK_PYTHON="path/to/python" # path shoudl be something like cwd/conda/env/bin/...
+*Export python path for both driver and worker nodes (python version should be same for both)*
+  * export PYSPARK_PYTHON="path/to/python" # path should be something like /conda/env/bin/...
   * export PYSPARK_DRIVER_PYTHON="path/to/python"
 
-*install Beautiful Soup too*
+*Install Beautiful Soup too*
   * conda install -c anaconda beautifulsoup4
 
 
